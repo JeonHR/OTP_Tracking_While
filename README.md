@@ -12,4 +12,4 @@ Execute HW inspection PGM at the end of mass production.
   - Recorded logs allow for quick troubleshooting
 - Create an infinite loop for checking the Equipments
   - overcome the time limits of windows scheduler through a loop system
-  - reduce the cpu usage by optputting the result of false
+  - reduce the cpu usage by returning the result of false
