@@ -4,6 +4,7 @@ Execute HW inspection PGM at the end of mass production.
 #### Purpose
 - Prevent producers from missing PGM runs
 - Reduce the possibility of delivering defective materials to customers
+<img width="538" alt="image" src="https://github.com/user-attachments/assets/f2b1c504-b2b3-4798-877d-8c217df5017c">
 
 #### Knowledge
 - Understanding the python code (psutil, subprocess)
